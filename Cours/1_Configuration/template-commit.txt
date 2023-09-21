@@ -1,0 +1,5 @@
+#Contexte -> Titre du commit (49 caractères max)
+
+#Numéro du ticket (si correction support) suivi de #
+
+#Explications complémentaires
